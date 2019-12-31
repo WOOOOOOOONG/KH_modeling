@@ -1,0 +1,28 @@
+## ObjectAid 설치 및 사용법
+
+1) http://www.objectaid.com 접속
+
+2) Download 이동
+
+3) 상단의 
+  Name: ObjectAid UML Explorer
+  URL: http://www.objectaid.com/update/current
+
+ 확인 후 이클립스로 
+
+4) 이클립스 - Help - Install New Softwhere - add 클릭
+
+5)사이트에서 값을 복사해와서 입력
+
+Name : ObjectAid UML Explorer
+Loacation : http://www.objectaid.com/update/current
+
+
+6) 확장 후 아래와 같은것 체크 후 next
+- Apache Batik(Required for Add-On)
+- ObjectAid Class Diagram  
+
+7) 동의 및 설치
+ -> 만약 Security Warning과 같은 창이 뜨면 Install Anyway 클릭
+ -> 오른쪽 하단 or Progress로 설치 확인 가능
+ -> 설치 다 되면 Restart Now 후 사용가능
